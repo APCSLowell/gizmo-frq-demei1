@@ -27,7 +27,7 @@ public class OnlinePurchaseManager
   public boolean hasAdjacentEqualPair()
   {
     /* to be implemented in part (b) */
-    if ( purchase.size()<2){
+    if ( purchases.size()<2){
       return false;
       
     }
