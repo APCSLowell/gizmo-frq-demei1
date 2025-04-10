@@ -37,7 +37,6 @@ public class OnlinePurchaseManager
       }
     }
       return false;
-    }
   }
   public OnlinePurchaseManager()
   {
